@@ -1,0 +1,34 @@
+.Left{
+    width:100%;
+    padding: 20px;
+}
+
+.upper{
+        padding: 20px;
+}
+
+.bmwimg{
+
+    width:370px;
+}
+
+@media(min-width:768px){
+
+    .bmwimg{
+        width:650px;
+    }
+    .carheading{
+        font-size: 38px;
+    }
+
+    .viewdetails{
+        font-size: large;
+    }
+
+        .bmw1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+

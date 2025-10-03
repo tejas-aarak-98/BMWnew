@@ -1,0 +1,34 @@
+
+
+ .lower{
+        padding: 20px;
+}
+
+.bmwimg{
+
+    width:370px;
+}
+
+@media(min-width:768px){
+
+    .bmwimg{
+        width:710px;
+    }
+    .para{
+        font-size: 25px;
+    }
+    .carheading{
+        font-size: 45px;
+    }
+
+    .viewdetails{
+        font-size: large;
+    }
+
+            .bmw2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}
