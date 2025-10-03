@@ -84,7 +84,7 @@ const Mid =()=>{
   </div>
 
       <div className="card">
-    <img src="bmw1.jpg" alt="BMW M4"  />
+    <img src="bmw1.jpg" alt="BMW " height={"145px"} />
     <h3>BMW M4</h3>
     <p>A masterpiece of futuristic design and innovation, it proves that eco-friendly </p>
     <button>Explore</button>
@@ -100,4 +100,5 @@ const Mid =()=>{
 
 
 export default Mid;
+
 
